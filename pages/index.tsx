@@ -28,7 +28,7 @@ function Home({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
             and connect.
           </h1>
           <p className="font-light">
-            It's easy and free to post your thinking on any topic and connect
+            It is easy and free to post your thinking on any topic and connect
             with millions of readers.
           </p>
         </div>
